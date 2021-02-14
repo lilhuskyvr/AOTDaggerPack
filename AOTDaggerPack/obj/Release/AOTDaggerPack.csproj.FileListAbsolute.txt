@@ -1,0 +1,16 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\AOTDaggerPack.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\AOTDaggerPack.pdb
+C:\Users\nikon\RiderProjects\AOTDaggerPack\AOTDaggerPack\obj\Release\AOTDaggerPack.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\AOTDaggerPack\AOTDaggerPack\obj\Release\AOTDaggerPack.dll
+C:\Users\nikon\RiderProjects\AOTDaggerPack\AOTDaggerPack\obj\Release\AOTDaggerPack.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_KennyDagger.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_LeviDagger1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_LeviDagger2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_NiccoloDagger.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_ReinerDagger.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Game.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Damagers\Damager_AOTDaggerPierce.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Damagers\Damager_AOTDaggerSlash1H.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\Items\Item_Weapon_DaggerCommon.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\AOTDaggerPack\DamageModifiers\DamageModifier_AOTPierce.json
