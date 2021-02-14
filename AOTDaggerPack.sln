@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOTDaggerPack", "AOTDaggerPack\AOTDaggerPack.csproj", "{6B4D6658-0075-45AA-B912-D9F5C2F7BA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4D6658-0075-45AA-B912-D9F5C2F7BA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4D6658-0075-45AA-B912-D9F5C2F7BA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4D6658-0075-45AA-B912-D9F5C2F7BA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4D6658-0075-45AA-B912-D9F5C2F7BA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
